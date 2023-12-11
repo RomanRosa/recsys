@@ -2,4 +2,10 @@ pandas
 numpy
 seaborn
 matplotlib
+scikit-surprise
+scikit-learn
+tensorflow
+tensorflow-recommenders
+transformers
+setuptools
 #-e .

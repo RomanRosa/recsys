@@ -8,4 +8,5 @@ tensorflow
 tensorflow-recommenders
 transformers
 setuptools
+dill
 #-e .

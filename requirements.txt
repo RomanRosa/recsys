@@ -2,11 +2,24 @@ pandas
 numpy
 seaborn
 matplotlib
-scikit-surprise
+#scikit-surprise
 scikit-learn
 tensorflow
 tensorflow-recommenders
 transformers
 setuptools
 dill
+openai==0.28.1
+langchain
+langchain_experimental
+pinecone-client
+python-dotenv
+tiktoken
+ipykernel
+docx2txt
+pypdf
+requests
+aiohttp
+PyYAML
+openpyxl
 #-e .
